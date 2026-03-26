@@ -1,0 +1,15 @@
+# Dafny build outputs
+cat-cs.dtr
+dafny-cat.sln
+
+# Generated C# translation (produced by dafny build / translate)
+cat.cs
+cat.csproj
+
+# .NET build artifacts
+obj/
+cat
+cat.dll
+cat.pdb
+cat.deps.json
+cat.runtimeconfig.json
